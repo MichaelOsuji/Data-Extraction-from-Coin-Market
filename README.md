@@ -1,4 +1,4 @@
-## Data Extraction from Coin Market website using an API
+# Data Extraction from Coin Market website using an API
 
 This is a personal project where I extracted data from the Coin Market application to explore, analyse and derive insights from the extracted data.
 
